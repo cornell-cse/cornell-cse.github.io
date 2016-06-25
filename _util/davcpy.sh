@@ -13,7 +13,6 @@ rc=$(mktemp)
     -exec echo 'cd /'$(dirname {}) \; \
     -exec echo 'lcd '$(dirname {}) \; \
     -exec echo 'mput '$(basename {}) \; \
-    -exec echo 'cd -' \; \
     -exec echo 'lcd /home/bindel/work/cse-web/_site' \;
     echo "quit";
 } > "$rc";
