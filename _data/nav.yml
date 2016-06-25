@@ -1,0 +1,28 @@
+-
+  nav: index
+  link: index.html
+  text: Home
+-
+  nav: overview
+  link: overview.html
+  text: Overview
+-
+  nav: reqt
+  link: reqt.html
+  text: Requirements
+-
+  nav: courses
+  link: courses.html
+  text: Courses
+-
+  nav: people
+  link: people.html
+  text: People
+-
+  nav: readings
+  link: readings.html
+  text: Readings
+-
+  nav: contact
+  link: contact.html
+  text: Contact

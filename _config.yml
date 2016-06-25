@@ -1,0 +1,26 @@
+# Site settings
+title: Cornell CSE
+email: bindel@cornell.edu
+description: >
+  Web site of the Cornell CSE field.
+baseurl: "/"
+url: "http://www.cse.cornell.edu"
+exclude: ["Rakefile", "README.md"]
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      footer: footer.html
+      layout: sidebars
+      title: Program in Computational Science and Engineering
+
+cu_theme: "/cu_css"
+
+encoding: utf-8
+timezone: America/New_York
+
+# Build settings
+markdown: kramdown

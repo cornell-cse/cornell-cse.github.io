@@ -1,0 +1,44 @@
+---
+subtitle: CSE-related Courses
+nav: courses
+---
+
+<h3>Core courses</h3>
+
+{% for c in site.data.courses %}{% if c.tags contains 'core' %}
+<div class="row panel fill">
+  <div class="sm-3">
+    <a href="http://courses.cornell.edu/preview_course.php?catoid=26&coid={{c.catalog}}">{{ c.id | join: '/<br/>' }}</a>
+  </div>
+  <div class="sm-9">
+    {{ c.title }}{% if c.offered %}<br/>{% endif %}
+    {% for offering in c.offered limit:2 %}
+    {% if offering.url %}
+    [<a href="{{ offering.url }}">{{ offering.term }}</a>]
+    {% else %}
+    [{{ offering.term }}]
+    {% endif %}
+    {% endfor %}
+  </div>
+</div>
+{% endif %}{% endfor %}
+
+<h3>Other courses</h3>
+
+{% for c in site.data.courses %}{% if c.tags contains 'core' %}{% else %}
+<div class="row panel fill">
+  <div class="sm-3">
+    <a href="http://courses.cornell.edu/preview_course.php?catoid=26&coid={{c.catalog}}">{{ c.id | join: '/<br/>' }}</a>
+  </div>
+  <div class="sm-9">
+    {{ c.title }}{% if c.offered %}<br/>{% endif %}
+    {% for offering in c.offered limit:2 %}
+    {% if offering.url %}
+    [<a href="{{ offering.url }}">{{ offering.term }}</a>]
+    {% else %}
+    [{{ offering.term }}]
+    {% endif %}
+    {% endfor %}
+  </div>
+</div>
+{% endif %}{% endfor %}

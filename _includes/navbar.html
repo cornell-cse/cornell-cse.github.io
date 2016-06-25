@@ -1,0 +1,30 @@
+<nav class="band" id="main-navigation" aria-label="Main Navigation">
+  <div class="container">
+    <a id="mobile-home" href="#"><span class="hidden">Home</span></a>
+    <ul class="list-menu links">
+      {% for entry in site.data.nav %}
+        <li{% if entry.children %} class="parent"{% elsif entry.nav == page.nav %} class="active"{% endif %}>
+        <a href="{% if entry.link %}{{ entry.link }}{% else %}#{% endif %}">{{ entry.text }}</a>
+        {% if entry.parent %}
+          <ul class="list-menu links vertical children">
+            {% for child in entry.children %}
+              <li{% if child.children %} class="parent"{% elsif child.nav == page.nav %} class="active"{% endif %}>
+              <a href="{% if child.link %}{{ child.link }}{% else %}#{% endif %}">{{ child.text }}</a>
+              {% if child.parent %}
+                <ul class="children">
+                {% for gchild in child.children %}
+                  <li{% if gchild.nav == page.nav %}class="active"{% endif %}>
+                  <a href="{% if gchild.link %}{{ gchild.link }}{% else %}#{% endif %}">{{ gchild.text }}</a>
+                  </li>
+                {% endfor %}
+                </ul>
+              {% endif %}
+              </li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</nav>

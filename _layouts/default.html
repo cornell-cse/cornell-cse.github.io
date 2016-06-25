@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+{% include head.html %}
+
+<body class="cu-red45 -cu-seal -cu-seal-right -fixed-width -full-width sidebar sidebar-right sidebar-tint sidebar-tint-edge border-main two-sidebars -twin-sidebars -three-column -nav-justified -nav-float -autosize-header">
+
+	<div id="skipnav"><a href="#main" tabindex="1">Skip to main content</a></div>
+
+	<header class="band" role="banner">
+	 	{% include cu_identity.html %}
+		{% include titlebar.html %}
+		{% include navbar.html %}
+	</header>
+
+	{{ content }}
+
+	{% if page.footer %}
+	<footer class="band" role="contentinfo">
+		{% if page.footer != "empty" %}{% include {{ page.footer }} %}{% endif %}
+	</footer>
+	{% endif %}
+
+</body>
+</html>

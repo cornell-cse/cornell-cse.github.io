@@ -1,0 +1,165 @@
+-
+  id: [Math 4250, CS 4210]
+  title: "Numerical Analysis I: Differential Equations"
+  catalog: 405256
+  tags: [core]
+  offered:
+    -
+      prof: Vladimirsky
+      term: F15
+      url: http://www.math.cornell.edu/~vlad/math4250/
+    -
+      prof: Van Loan
+      term: F14
+      url: http://www.cs.cornell.edu/Courses/CS4210/2015fa/
+-
+  id: [Math 4260, CS 4220, CS 5223]
+  title: "Numerical Analysis II: Linear and Nonlinear Problems"
+  catalog: 336856
+  tags: [core]
+  offered:
+    -
+      prof: bindel
+      term: S16
+      url: http://www.cs.cornell.edu/~bindel/class/cs4220-s16/
+    -
+      prof: Bindel
+      term: S15
+      url: http://www.cs.cornell.edu/~bindel/class/cs4220-s15/
+-
+  id: CS 6210
+  title: Matrix Computations
+  catalog: 405290
+  tags: [core]
+  offered:
+    -
+      prof: Van Loan
+      term: F15
+      url: http://www.cs.cornell.edu/courses/cs6210/2015fa/
+-
+  id: Physics 7680
+  title: Computational Physics
+  catalog: 408678
+  tags: [core]
+  offered:
+    -
+      prof: Sethna
+      term: S14
+      url: http://pages.physics.cornell.edu/~sethna/teaching/ComputationalPhysics/
+-
+  id: Physics 7682
+  title: Computational Methods for Nonlinear Systems
+  catalog: 340957
+  tags: [core]
+  offered:
+    -
+      prof: Myers
+      term: F15
+      url: http://pages.physics.cornell.edu/~myers/teaching/ComputationalMethods/
+-
+  id: [BEE 4530, MAE 4530]
+  title: "Computer Aided Engineering: Application to Biomedical Processes"
+  catalog: 407532
+  offered:
+    -
+      prof: Datta
+      term: F15
+      url: https://courses.cit.cornell.edu/bee4530/
+-
+  id: CEE 6300
+  title: Spectral Methods for Incompressible Fluid Flows
+  catalog: 404746
+-
+  id: CEE 6310
+  title: Computational Simulation of Flow and Transport in the Environment
+  catalog: 404747
+-
+  id: CEE 6370
+  title: Experimental Methods in Fluid Dynamics
+  catalog: 404751
+-
+  id: CEE 6720
+  title: Introduction to the Finite Element Method
+  catalog: 404763
+-
+  id: CEE 7700
+  title: Engineering Fracture Mechanics
+-
+  id: CEE 7750
+  title: "Nonlinear Finite Element Analysis: Solids"
+  catalog: 404785
+-
+  id: CEE 7770
+  title: Computational Solid and Structural Mechanics
+-
+  id: CHEME 7510
+  title: Mathematical Methods of Chemical Engineering Analysis
+  catalog: 404882
+-
+  id: CHEME 7530
+  title: "Analysis of Nonlinear Systems: Stability, Bifurcation, and Continuation"
+  catalog: 404883
+-
+  id: CS 4620
+  title: Introduction to Computer Graphics
+  catalog: 405263
+-
+  id: CS 4621
+  title: Computer Graphics Practicum
+  catalog: 405264
+-
+  id: CS 6620
+  title: Advanced Interactive Graphics
+  catalog: 405293
+-
+  id: CS 6630
+  title: Realistic Image Synthesis
+  catalog: 405294
+-
+  id: CS 6650
+  title: Computational Motion
+  catalog: 405295
+-
+  id: ECE 4250
+  title: Digital Signal Processing
+  catalog: 405651
+-
+  id: ECE 5210
+  title: Theory of Linear Systems
+  catalog: 405677
+-
+  id: MAE 4780
+  title: Feedback Control
+  catalog: 407540
+-
+  id: MAE 5700
+  title: Finite Element Analysis for Mechanical and Aerospace Design
+  catalog: 407556
+-
+  id: Math 6190
+  title: Partial Differential Equations I
+  catalog: 407660
+-
+  id: Math 6200
+  title: Partial Differential Equations II
+  catalog: 407661
+-
+  id: ORIE 6300
+  title: Mathematical Programming I
+  catalog: 408312
+-
+  id: ORIE 6310
+  title: Mathematical Programming II
+  catalog: 408313
+-
+  id: ORIE 6320
+  title: Nonlinear Programming
+  catalog: 408314
+-
+  id: ORIE 6325
+  title: Interior-Point Methods for Mathematical Progrmaming
+  catalog: 408315
+-
+  id: ORIE 6580
+  title: Simulation
+  catalog: 408326

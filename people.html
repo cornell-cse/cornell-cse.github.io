@@ -1,0 +1,25 @@
+---
+subtitle: CSE Field Members
+nav: people
+---
+
+<hr/>
+{% for p in site.data.field %}
+{% if p.gone %}{% else %}
+<div class="panel fill">
+  <img class="align-right round" alt="{{ p.name }}" width="100" src="{{ p.pic }}">
+  <div>
+    <p>
+      <h4><a href="{{ p.url }}">{{ p.name }}</a></h4>
+      {{ p.dept }}<br/>
+      {{ p.office }}<br/>
+      {{ p.phone }}<br/>
+      <a href="mailto:{{ p.email }}">{{ p.email }}</a>
+    </p>
+    <p>
+      {{ p.blurb }}
+    </p>
+  </div>
+</div>
+{% endif %}
+{% endfor %}

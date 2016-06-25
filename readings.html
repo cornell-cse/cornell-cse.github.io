@@ -1,0 +1,13 @@
+---
+subtitle: Readings
+nav: readings
+---
+
+<ul class="list-menu vertical divs">
+{% for article in site.data.reading %}
+<li>
+  <a href="{{ article.url }}"><strong>{{ article.title }}</strong></a>
+  {% if article.byline %}<br/>{{ article.byline }}{% endif %}
+</li>
+{% endfor %}
+</ul>

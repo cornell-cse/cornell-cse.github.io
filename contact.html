@@ -1,0 +1,20 @@
+---
+subtitle: Contact Us
+nav: contact
+---
+
+<h3>Administration</h3>
+
+<p>
+  <a href="mailto:{{ site.data.admin.director.email }}">{{ site.data.admin.director.name }}</a>,
+  CSE Director of Graduate Studies
+</p>
+
+{% if site.data.admin.steering %}
+<h3>Steering Committee</h3>
+{% for member in site.data.admin.steering %}
+<p>
+  <a href="mailto:{{ member.email }}">{{ member.name }}</a>, {{ member.info }}
+</p>
+{% endfor %}
+{% endif %}
