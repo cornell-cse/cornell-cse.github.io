@@ -7,8 +7,8 @@ baseurl: "/"
 url: "http://www.cse.cornell.edu"
 exclude: ["Rakefile", "README.md"]
 
-#encoding: utf-8
-encoding: ASCII-8BIT
+encoding: utf-8
+#encoding: ASCII-8BIT
 timezone: America/New_York
 
 defaults:
