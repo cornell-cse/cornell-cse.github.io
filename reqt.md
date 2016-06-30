@@ -22,13 +22,13 @@ and is expected to receive a letter grade of B+ or better in each.
    of algorithms or visualization, use of computers, and applications
    to scientific or engineering problems. See the list of currently
    approved CSE courses. Whether or not these courses can also be used
-   to satisfy requirements for the Major field is a matter for the
-   student’s Special Committee.
+   to satisfy requirements for the major field is a matter for the
+   student's Special Committee.
 
 2. Level: At least two of the courses should be at the 600-level or
    above.
 
-3. Breadth: At le ast two of the courses should be outside the
+3. Breadth: At least two of the courses should be outside the
    student’s home department.  In the case of a student whose major
    field is not associated with a Cornell department (such as Applied
    Mathematics), no more than two of the courses can come from the
