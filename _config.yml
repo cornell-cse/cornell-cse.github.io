@@ -23,8 +23,5 @@ defaults:
 
 cu_theme: "/cu_css"
 
-encoding: utf-8
-timezone: America/New_York
-
 # Build settings
 markdown: kramdown
