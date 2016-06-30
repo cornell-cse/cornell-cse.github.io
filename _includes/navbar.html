@@ -5,7 +5,7 @@
       {% for entry in site.data.nav %}
         <li{% if entry.children %} class="parent"{% elsif entry.nav == page.nav %} class="active"{% endif %}>
         <a href="{% if entry.link %}{{ entry.link }}{% else %}#{% endif %}">{{ entry.text }}</a>
-        {% if entry.parent %}
+        {% if entry.children %}
           <ul class="list-menu links vertical children">
             {% for child in entry.children %}
               <li{% if child.children %} class="parent"{% elsif child.nav == page.nav %} class="active"{% endif %}>
