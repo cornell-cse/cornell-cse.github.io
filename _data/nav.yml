@@ -19,6 +19,21 @@
   link: people.html
   text: People
 -
+  text: Related
+  children:
+    -
+      link: http://www.cam.cornell.edu/
+      text: Center for Applied Math
+    -
+      link: http://www.icse.cornell.edu/
+      text: Institute for Computational Science and Engineering
+    -
+      link: http://www.cis.cornell.edu/
+      text: Computing and Information Sciences
+    -
+      link: http://www.engineering.cornell.edu/
+      text: College of Engineering
+-
   nav: readings
   link: readings.html
   text: Readings
