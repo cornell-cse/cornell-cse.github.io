@@ -38,6 +38,10 @@
   link: readings.html
   text: Readings
 -
+  nav: listserv
+  link: listserv.html
+  text: Listserv
+-
   nav: contact
   link: contact.html
   text: Contact
