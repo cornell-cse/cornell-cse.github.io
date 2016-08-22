@@ -66,6 +66,16 @@
       term: F15
       url: https://courses.cit.cornell.edu/bee4530/
 -
+
+id: CEE 6000
+  title: Advanced Numerical Methods for Engineers
+  catalog: 404725
+  tags: [core]
+  offered:
+    -
+      prof: Diamessis
+      term: F16
+-
   id: CEE 6300
   title: Spectral Methods for Incompressible Fluid Flows
   catalog: 404746
