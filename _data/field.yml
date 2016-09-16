@@ -191,13 +191,13 @@
   phone: (607) 255-1652
   email: cje23@cornell.edu
   blurb: |
-    the development and application of computational mechanics
-    techniques for the study of complex structural systems. Structural
-    systems of interest can be from any domain, including: civil
-    structures, ships, aircraft, and biological systems. Structural
-    health monitoring and the solution of complex inverse problems are
-    important themes in Earls research program; as are structural
-    stability and metal structure behavior.
+   My research is concerned with developing novel algorithmic and computational approaches
+   that enable new understanding concerning the actual condition, and future performance
+   of complex engineered and natural systems. Practical challenges concerning the principled
+   treatment of uncertainty, sparse sensing, and the complex multi-physics response modalities
+   of the real-world are motivational in my work. The intellectual themes that underpin my research are:
+   computational mechanics, high performance computing, and applied mathematics. Problems
+   of interest to me occur in the domains of engineering and applied science.
 -
   name: Steve Ellner
   dept: Ecology and Evolutionary Biology
