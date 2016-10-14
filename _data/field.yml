@@ -685,6 +685,19 @@
     uncertainty. Such problems arise in freight, data transmission
     capacity and airfare pricing.
 -
+  name: Alex Townsend
+  dept: Mathematics
+  pic: http://as.cornell.edu/sites/as/files/Townsend.jpg
+  url: http://www.math.cornell.edu/~ajt/
+  office: Malott Hall 589 
+  phone: (607) --------
+  email: ajt253@cornell.edu
+  blurb: |
+    I am interested in the study and development of numerical algorithms in applied mathematics. 
+    I mainly work in the following three areas: (1) Novel spectral methods for the solution of differential equations, 
+    (2) The asymptotics of special functions for image reconstruction, convolution, and quadrature, and 
+    (3) Numerical algebraic geometry for the solution of polynomial systems.  
+-
   name: Les Trotter
   dept: Operations Research
   pic: http://www.cs.cornell.edu/cse/images/facres/trotter.gif
