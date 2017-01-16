@@ -327,6 +327,21 @@
     Rock mechanics, structural mechanics, fracture mechanics,
     computational mechanics.
 -
+  name: Peter Jackson
+  dept: Operations Research
+  pic: http://www.orie.cornell.edu/engineering/customcf/iws_ai_faculty_display/ai_images/pj16-profile.jpg
+  url: http://www.orie.cornell.edu/orie/people/profile.cfm?netid=pj16
+  office: 218 Rhodes Hall
+  phone: (607) 255-9122
+  email: pj16@cornell.edu
+  blurb: |
+    Much of my research career has focused on optimization problems arising in inventory
+    systems (production, distribution, and supply chain) for which approximations are 
+    required to get tractable solution algorithms. Recently, I have been exploring robust
+    optimization as a tool to develop such algorithms in a more standardized way. I am
+    currently co-advising a student in an attempt to use robust optimization to justify
+    a production policy we have been unable to show as optimal using traditional methods.
+-
   name: Yong Joo
   dept: Chemical and Biomolecular Engineering
   pic: http://www.cs.cornell.edu/cse/images/facres/joo.gif
