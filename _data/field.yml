@@ -102,6 +102,22 @@
     modeling, but multi-scale techniques are used to cover multiple
     length- and time- scales.
 -
+  name: Yudong Chen
+  dept: Operations Research
+  pic: https://people.orie.cornell.edu/yudong.chen/
+  url: https://people.orie.cornell.edu/yudong.chen/2015_1397_020.jpg
+  office: 223 Rhodes Hall
+  phone: (607) 255-0698
+  email: yudong.chen@cornell.edu
+  blurb: |
+    My research interests include machine learning, high-dimensional
+    and robust statistics, and optimization. Some of the topics that
+    I am interested in are: sparse recovery and compressed sensing,
+    robust matrix completion and PCA, graph clustering and community
+    detection in networks, mixture problems, large-scale learning and
+    optimization, computational and statstistical tradeoffs, and
+    non-convex statistical algorithms.
+-
   name: Lance Collins
   dept: Mechanical and Aerospace Engineering
   pic: http://www.cs.cornell.edu/cse/images/facres/collins.gif
@@ -312,7 +328,7 @@
     convexity or quasi convexity, that can be exploited to develop
     algorithms that are robust and fast. Applications in this area
     include radiation treatment planning, call center planning, yacht
-    match racing, ambulance deployment, adaptive Monte Carlo and
+    match racing, ambulance deployment, adaptive Monte Carlo and 
     policy identification in complex networks.
 -
   name: Tony Ingraffea
@@ -335,11 +351,12 @@
   phone: (607) 255-9122
   email: pj16@cornell.edu
   blurb: |
-    Much of my research career has focused on optimization problems arising in inventory
-    systems (production, distribution, and supply chain) for which approximations are 
-    required to get tractable solution algorithms. Recently, I have been exploring robust
-    optimization as a tool to develop such algorithms in a more standardized way. I am
-    currently co-advising a student in an attempt to use robust optimization to justify
+    Much of my research career has focused on optimization problems arising
+    in inventory systems (production, distribution, and supply chain) for
+    which approximations are required to get tractable solution algorithms.
+    Recently, I have been exploring robust optimization as a tool to develop
+    such algorithms in a more standardized way. I am currently co-advising
+    a student in an attempt to use robust optimization to justify
     a production policy we have been unable to show as optimal using traditional methods.
 -
   name: Yong Joo
@@ -357,6 +374,19 @@
     purely elastic instabilities in polymer flows, and the solid state
     processing of advanced polymeric materials. Comparison of
     experimental results with numerical simulation.
+-
+  name: Nathan Kallus
+  dept: Operations Research
+  pic: http://www.nathankallus.com/pic.jpg
+  url: http://www.nathankallus.com/
+  office: ---
+  phone: ---
+  email: kallus@cornell.edu
+  blurb: |
+    My research revolves around data-driven decision making, the interplay
+    of optimization and statistics in decision making and in inference,
+    and the analytical capacities and challenges of observational,
+    large-scale, and web-driven data.
 -
   name: Sid Leibovich
   dept: Mechanical and Aerospace Engineering
