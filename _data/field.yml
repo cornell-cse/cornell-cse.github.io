@@ -86,22 +86,6 @@
     algorithms to solve the quantum many-particle problem, and the
     treatment of correlation in time-dependent processes.
 -
-  name: Paulette Clancy
-  dept: Chemical and Biomolecular Engineering
-  pic: http://www.cs.cornell.edu/cse/images/facres/clancy.gif
-  url: http://www.cheme.cornell.edu/people/profile.cfm?netid=pqc1
-  office: 124 Olin Hall
-  phone: (607) 255-6331
-  email: pc@cheme.cornell.edu
-  blurb: |
-    Multiscale computational studies of traditional (silicon-based)
-    and non-traditional (organic) semiconductors, especially the
-    optimization and understanding of manufacturing processes used to
-    fabricate electronic devices and design potentially improved
-    semiconductor materials. Major emphasis is on atomic-scale
-    modeling, but multi-scale techniques are used to cover multiple
-    length- and time- scales.
--
   name: Yudong Chen
   dept: Operations Research
   url: https://people.orie.cornell.edu/yudong.chen/
@@ -117,6 +101,22 @@
     detection in networks, mixture problems, large-scale learning and
     optimization, computational and statstistical tradeoffs, and
     non-convex statistical algorithms.
+-
+  name: Paulette Clancy
+  dept: Chemical and Biomolecular Engineering
+  pic: http://www.cs.cornell.edu/cse/images/facres/clancy.gif
+  url: http://www.cheme.cornell.edu/people/profile.cfm?netid=pqc1
+  office: 124 Olin Hall
+  phone: (607) 255-6331
+  email: pc@cheme.cornell.edu
+  blurb: |
+    Multiscale computational studies of traditional (silicon-based)
+    and non-traditional (organic) semiconductors, especially the
+    optimization and understanding of manufacturing processes used to
+    fabricate electronic devices and design potentially improved
+    semiconductor materials. Major emphasis is on atomic-scale
+    modeling, but multi-scale techniques are used to cover multiple
+    length- and time- scales.
 -
   name: Lance Collins
   dept: Mechanical and Aerospace Engineering
