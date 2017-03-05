@@ -11,3 +11,7 @@ end
 task :build do
   sh "jekyll build"
 end
+
+task :deploy => [:build] do
+  sh "sitecopy --update cse"
+end
