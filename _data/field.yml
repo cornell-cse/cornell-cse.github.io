@@ -393,8 +393,8 @@
   dept: Cornell Center for Advanced Computing
   pic: http://www.cac.cornell.edu/images/cac/staff/lantz250.jpg
   url: https://www.cac.cornell.edu/slantz/index.html
-  office: ---
-  phone: ---
+  office: 533 Rhodes Hall, Center for Advanced Computing
+  phone: (607) 254-8887
   email: steve.lantz@cornell.edu
   blurb: |
     High performance computing, parallel computing, numerical modeling and simulation,
@@ -573,7 +573,7 @@
     theory. Simulation and approximation of solutions for stochastic
     differential equations.
 -
-  name: Sarah Pryor
+  name: Sara Pryor
   dept: Earth and Atmospheric Sciences
   pic: http://www.eas.cornell.edu/engineering2/customcf/iws_ai_faculty_display/ai_images/sp2279_eng-profile.jpg
   url: http://www.geo.cornell.edu/eas/PeoplePlaces/Faculty/spryor/
