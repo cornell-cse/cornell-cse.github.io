@@ -137,6 +137,16 @@
   title: Computer Graphics Practicum
   catalog: 405264
 -
+  id: CS 6220
+  title: Data-Sparse Matrix Computations
+  catalog:
+  tags:
+  offered:
+    -
+      prof:  Anil Damle
+      term: F17
+      url: https://classes.cornell.edu/browse/roster/FA17/class/CS/6220
+-
   id: CS 6620
   title: Advanced Interactive Graphics
   catalog: 405293
@@ -192,3 +202,15 @@
   id: ORIE 6580
   title: Simulation
   catalog: 408326
+-
+  id: ORIE 6745
+  title: Causality and Learning for Intelligent Decision Making
+  catalog:
+  tags:
+  offered:
+    -
+      prof:  Nathan Kallus
+      term: F17
+      url: http://nathankallus.com/6745F17/
+-
+  
