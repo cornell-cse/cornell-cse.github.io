@@ -85,6 +85,16 @@
       term: S18
       url: https://people.orie.cornell.edu/snp32/orie_6125/
 -
+  id: CEE 5720
+  title: Introductory Finite Element Analysis with Applications
+  catalog:
+  tags:
+  offered:
+    -
+      prof:  Christopher Earls
+      term: F17
+      url: https://classes.cornell.edu/browse/roster/FA17/class/CEE/5720
+-
   id: CEE 6300
   title: Spectral Methods for Incompressible Fluid Flows
   catalog: 404746
