@@ -1,24 +1,463 @@
 <!DOCTYPE html>
-<html lang="en" class="no-js">
-{% include head.html %}
+<html lang="en">
+  <head>
+  <meta charset="UTF-8">
 
-<body class="cu-red45 cu-2014 -cu-seal -cu-seal-right -fixed-width -full-width sidebar sidebar-right sidebar-tint sidebar-tint-edge border-main two-sidebars -twin-sidebars -three-column -nav-justified -nav-float -autosize-header">
+  <!-- Enable responsiveness on mobile devices-->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<div id="skipnav"><a href="#main" tabindex="1">Skip to main content</a></div>
+  <title>
+      Program in Computational Science and Engineering &middot; 
+  </title>
 
-	<header class="band" role="banner">
-	 	{% include cu_identity.html %}
-		{% include titlebar.html %}
-		{% include navbar.html %}
-	</header>
+  <!-- CSS -->
+  <link rel="stylesheet" href="/assets/css/bootstrap.css">
+  <link rel="stylesheet" href="/assets/css/cornell.css">
 
-	{{ content }}
+  <!-- Typekit fonts -->
+  <script src="https://use.typekit.net/cbv6eox.js"></script>
+  <script>try{Typekit.load({ async: true });}catch(e){}</script>
+</head>
 
-	{% if page.footer %}
-	<footer class="band" role="contentinfo">
-		{% if page.footer != "empty" %}{% include {{ page.footer }} %}{% endif %}
-	</footer>
-	{% endif %}
 
-</body>
+  <body class="home has-masthead" data-click-category="Home">
+    <a href="#main" class="sr-only">Skip to main content</a>
+
+    
+    <header class="header" data-click-category="header" data-click-action="link">
+  <!-- 
+  *******
+  SEARCH
+  *******
+  -->
+  <form action="https://cornell.edu/search" class="cu-search" method="get">
+    <div class="container" role="search">
+      <input autocomplete="off" id="search-query" name="q" placeholder="Search pages and people" required="" type="search" aria-label="Search pages and people">
+    </div>
+  </form>
+
+  <!-- 
+  *******
+  TOP NAV
+  *******
+  -->
+  <nav class="navbar navbar-brand-bar" aria-label="Top Links">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+          <span class="sr-only">Toggle navigation</span>
+        </button>
+        <span class="navbar-search" data-search-toggle="true"><span class="sr-only">Search</span></span>
+        <a class="navbar-brand cornell-45px-logo logo-black" href="http://www.cornell.edu">Cornell University</a>
+      </div>
+      <div id="navbar-top" class="navbar-collapse collapse">
+        <ul class="nav navbar-nav navbar-right">
+          <!-- <li><a href="../navbar/">Default</a></li>
+          <li><a href="../navbar-static-top/">Static top</a></li>
+          <li class="active"><a href="./">Fixed top <span class="sr-only">(current)</span></a></li> -->
+          <li class="navbar-search" data-search-toggle="true"><span class="sr-only">Search</span></li>
+        </ul>
+      </div>
+      <!--/.nav-collapse -->
+    </div>
+  </nav>
+
+  <!-- 
+  *******
+  CORNELL BRAND
+  *******
+  -->
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <div class="cornell-lockup" data-click-action="logos">
+          <a class="cornell-insignia" href="http://www.cornell.edu"><span class="alt-text">Cornell University</span></a><!--
+          --><a class="site-brand" href="/"><h1 class="alt-text">Program in Computational Science and Engineering</h1><h2 class="alt-text">{{ page.title }}</h1></a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</header>
+
+    <!-- 
+***************
+MAIN NAVIGATION
+***************
+-->
+
+
+<!-- TODO: Replace with navbar -->
+<div class="container">
+  <nav class="navbar yamm navbar-default " data-click-category="navigation" data-click-action="link" aria-label="Main Navigation">
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="navbar">
+      <ul class="nav navbar-nav" aria-haspopup="true">
+        
+
+          
+          
+
+          <li class="dropdown   yamm-fw " id="Logos" aria-level="1">
+            <a href="/logos" data-target="#">
+                Logos
+            </a>
+            
+
+            <ul class="dropdown-menu" role="menu" aria-label="Logos dropdown menu">
+              
+              
+              <li  aria-level="2">
+                <a href="/logos/academic">
+                  Academic
+                </a>
+              </li>
+
+              
+
+              
+              
+              <li  aria-level="2">
+                <a href="/logos/non-academic">
+                  Non-academic
+                </a>
+              </li>
+
+              
+
+              
+            </ul>
+          </li>
+          
+        
+
+          
+          
+
+          <li class="dropdown   yamm-fw " id="Design_Center" aria-level="1">
+            <a href="/design-center" data-target="#">
+                Design Center
+            </a>
+            
+
+            <ul class="dropdown-menu" role="menu" aria-label="Design Center dropdown menu">
+              
+              
+              <li  aria-level="2">
+                <a href="/design-center/colors">
+                  Colors
+                </a>
+              </li>
+
+              
+
+              
+              
+              <li  aria-level="2">
+                <a href="/design-center/typography">
+                  Typography
+                </a>
+              </li>
+
+              
+
+              
+              
+              <li  aria-level="2">
+                <a href="/design-center/photography">
+                  Photography
+                </a>
+              </li>
+
+              
+
+              
+              
+              <li  aria-level="2">
+                <a href="/design-center/video">
+                  Video
+                </a>
+              </li>
+
+              
+
+              
+              
+              <li  aria-level="2">
+                <a href="/design-center/music">
+                  Music
+                </a>
+              </li>
+
+              
+
+              
+              
+              <li  aria-level="2">
+                <a href="/design-center/stationery">
+                  Stationery
+                </a>
+              </li>
+
+              
+
+              
+              
+              <li  aria-level="2">
+                <a href="/design-center/copyright-licensing">
+                  Copyright &amp; Licensing
+                </a>
+              </li>
+
+              
+
+              
+            </ul>
+          </li>
+          
+        
+
+          
+          
+
+          <li class="dropdown   yamm-fw " id="Messaging" aria-level="1">
+            <a href="/messaging" data-target="#">
+                Messaging
+            </a>
+            
+
+            <ul class="dropdown-menu" role="menu" aria-label="Messaging dropdown menu">
+              
+              
+              <li  aria-level="2">
+                <a href="/messaging/founding-principle">
+                  Founding Principle
+                </a>
+              </li>
+
+              
+
+              
+              
+              <li  aria-level="2">
+                <a href="/messaging/nomenclature">
+                  Nomenclature
+                </a>
+              </li>
+
+              
+
+              
+              
+              <li  aria-level="2">
+                <a href="/messaging/student-orgs">
+                  Student Organizations
+                </a>
+              </li>
+
+              
+
+              
+              
+              <li  aria-level="2">
+                <a href="/messaging/social-media">
+                  Social Media
+                </a>
+              </li>
+
+              
+
+              
+              
+              <li  aria-level="2">
+                <a href="/messaging/emergency-banner/">
+                  Emergency Banner
+                </a>
+              </li>
+
+              
+
+              
+            </ul>
+          </li>
+          
+        
+
+          
+          <li class="" aria-level="1">
+            <a href="/merchandising">
+              Merchandising
+            </a>
+          </li>
+          
+        
+
+          
+          <li class="" aria-level="1">
+            <a href="/policies">
+              Policies
+            </a>
+          </li>
+          
+        
+
+          
+          
+
+          <li class="dropdown   yamm-fw " id="Support" aria-level="1">
+            <a href="https://apps.univcomm.cornell.edu/brand-forms/forms/" data-target="#">
+                Support
+            </a>
+            
+
+            <ul class="dropdown-menu" role="menu" aria-label="Support dropdown menu">
+              
+              
+              <li  aria-level="2">
+                <a href="https://apps.univcomm.cornell.edu/brand-forms/forms/consult.html">
+                  Consultation Request
+                </a>
+              </li>
+
+              
+
+              
+              
+              <li  aria-level="2">
+                <a href="https://apps.univcomm.cornell.edu/brand-forms/forms/artwork.html">
+                  Merchandise Approval
+                </a>
+              </li>
+
+              
+
+              
+              
+              <li  aria-level="2">
+                <a href="https://apps.univcomm.cornell.edu/brand-forms/forms/endorsement.html">
+                  Use of Name or Logo
+                </a>
+              </li>
+
+              
+
+              
+              
+              <li  aria-level="2">
+                <a href="https://apps.univcomm.cornell.edu/brand-forms/forms/misuse.html">
+                  Report Misuse
+                </a>
+              </li>
+
+              
+
+              
+              
+              <li  aria-level="2">
+                <a href="https://apps.univcomm.cornell.edu/filming/forms/request.html">
+                  Filming Request
+                </a>
+              </li>
+
+              
+
+              
+            </ul>
+          </li>
+          
+        
+
+          
+          <li class="" aria-level="1">
+            <a href="/downloads">
+              Downloads
+            </a>
+          </li>
+          
+        
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </nav>
+</div><!-- /.container-fluid -->
+
+    <main class="main" id="main">
+      
+        <style scoped>
+    img.img-responsive{
+      max-width: 96%;
+    }
+</style>
+
+<div class="container margin-lg-top margin-lg-bottom">
+  {{ content }}
+</div>
+    </main>
+
+    <footer class="footer" data-click-category="footer" data-click-action="link">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12 text-center">
+  <p>&copy; Program in Computational Science and Engineering</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+      <script src="//code.jquery.com/jquery-2.2.4.min.js"></script>
+  <script type="text/javascript" src="/assets/js/bootstrap.min.js"></script> 
+
+  <!-- PLUGINS -->
+  
+  
+  
+  <script>
+      // Instantiate the Bootstrap carousel
+      $('.multi-item-carousel').carousel({
+        interval: 2000
+      });
+
+      // for every slide in carousel, copy the next slide's item in the slide.
+      // Do the same for the next, next item.
+      $('.multi-item-carousel .item').each(function(){
+        var next = $(this).next();
+        if (!next.length) {
+          next = $(this).siblings(':first');
+        }
+        next.children(':first-child').clone().appendTo($(this));
+        
+        if (next.next().length>0) {
+          next.next().children(':first-child').clone().appendTo($(this));
+        } else {
+          $(this).siblings(':first').children(':first-child').clone().appendTo($(this));
+        }
+      });
+  </script>
+  
+  
+  
+  
+  
+  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+  <script type="text/javascript" src="/assets/js/brand.js"></script> 
+  
+  <script>
+  
+$(document).ready(function() {
+    $('.accordion__header').click(function() {
+        
+        $(".accordion__body").not($(this).next()).slideUp(400);
+        $(this).next().slideToggle(400);
+        
+        $(".accordion__item").not($(this).closest(".accordion__item")).removeClass("open-accordion");
+        $(this).closest(".accordion__item").toggleClass("open-accordion");
+    });
+});
+
+
+</script>
+
+  </body>
 </html>

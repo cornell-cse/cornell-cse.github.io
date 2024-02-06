@@ -8,7 +8,6 @@ url: "https://cornell-cse.github.io"
 exclude: ["Rakefile", "README.md"]
 
 encoding: utf-8
-#encoding: ASCII-8BIT
 timezone: America/New_York
 
 defaults:
@@ -18,10 +17,8 @@ defaults:
       type: "pages"
     values:
       footer: footer.html
-      layout: sidebars
+      layout: default
       title: Program in Computational Science and Engineering
-
-cu_theme: "https://cornell-cse.github.io//cu_css"
 
 # Build settings
 markdown: kramdown
