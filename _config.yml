@@ -4,7 +4,7 @@ email: bindel@cornell.edu
 description: >
   Web site of the Cornell CSE field.
 baseurl: "/"
-url: "http://www.cse.cornell.edu"
+url: "https://cornell-cse.github.io"
 exclude: ["Rakefile", "README.md"]
 
 encoding: utf-8
