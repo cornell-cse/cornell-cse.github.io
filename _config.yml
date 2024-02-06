@@ -3,8 +3,8 @@ title: Cornell CSE
 email: bindel@cornell.edu
 description: >
   Web site of the Cornell CSE field.
-baseurl: "https://cornell-cse.github.io/"
-url: "https://cornell-cse.github.io/"
+baseurl: "/"
+url: "https://cornell-cse.github.io"
 exclude: ["Rakefile", "README.md"]
 
 encoding: utf-8
@@ -21,7 +21,7 @@ defaults:
       layout: sidebars
       title: Program in Computational Science and Engineering
 
-cu_theme: "/cu_css"
+cu_theme: "https://cornell-cse.github.io//cu_css"
 
 # Build settings
 markdown: kramdown
