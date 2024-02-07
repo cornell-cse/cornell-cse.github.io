@@ -198,8 +198,8 @@
 -
   name: Nathan Kallus
   dept: Operations Research
-  pic: http://www.nathankallus.com/Kallus_nyc_919_512_c1.jpg
-  url: http://www.nathankallus.com/
+  pic: https://tech.cornell.edu/wp-content/uploads/2020/01/Nathan-Kallus-headshot-2.jpg
+  url: https://tech.cornell.edu/people/nathan-kallus/
   office: ---
   phone: ---
   email: kallus@cornell.edu
@@ -291,7 +291,7 @@
 -
   name: Sara Pryor
   dept: Earth and Atmospheric Sciences
-  pic: http://www.eas.cornell.edu/engineering2/customcf/iws_ai_faculty_display/ai_images/sp2279_eng-profile.jpg
+  pic: https://www.eas.cornell.edu/sites/default/files/departments/EAS/Sara%20Pryor.jpg
   url: http://www.geo.cornell.edu/eas/PeoplePlaces/Faculty/spryor/
   office: 1117 Bradfield Hall
   phone: (607) 255-3376
@@ -308,7 +308,7 @@
 -
   name: Patrick Reed
   dept: Civil and Environmental Engineering
-  pic: http://www.cee.cornell.edu/engineering2/customcf/iws_ai_faculty_display/ai_images/pmr82-profile.jpg
+  pic: https://www.cee.cornell.edu/sites/default/files/content/faculty/image/Reed%20560x560.jpg
   url: http://reed.cee.cornell.edu/
   office: 211 Hollister
   phone: (607) 255-2024
@@ -339,7 +339,6 @@
 -
   name: David Shalloway
   dept: Molecular Biology and Genetics
-  pic: http://www.cs.cornell.edu/cse/images/facres/shalloway.gif
   url: http://www.mbg.cornell.edu/MBG_Faculty_Detail.cfm?id=27
   office: 265 Biotechnology Building
   phone: (607) 254-4896
@@ -386,7 +385,7 @@
 -
   name: Alex Townsend
   dept: Mathematics
-  pic: http://as.cornell.edu/sites/as/files/Townsend.jpg
+  pic: https://people.as.cornell.edu/files/second/styles/person_image/public/alex-townsend.jpg
   url: http://www.math.cornell.edu/~ajt/
   office: Malott Hall 589 
   phone: (607) --------
