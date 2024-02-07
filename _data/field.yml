@@ -1,7 +1,7 @@
 -
   name: Tomas Arias
   dept: Physics
-  pic: http://www.cs.cornell.edu/cse/images/facres/arias.jpg
+  pic: https://people.as.cornell.edu/files/second/styles/person_image/public/tomas-arias.jpg
   url: http://people.ccmr.cornell.edu/~muchomas/
   office: 522 Clark Hall
   phone: (607) 255-0450
@@ -15,128 +15,21 @@
     in scientific computing and novel design principles for parallel
     software.
 -
-  name: Wilkins Aquino
-  dept: Civil and Environmental Engineering
-  pic: http://www.cs.cornell.edu/cse/images/facres/aquino.gif
-  url: http://www.cee.cornell.edu/fbxk/fcbo.cfm?pid=213
-  office: 313 Hollister Hall
-  phone: (607) 255-3294
-  email: WA27@cornell.edu
-  gone: Moved to Duke
-  blurb: |
-    Inverse problems, computational non-destructive evaluation,
-    computational solid mechanics, large scale scientific computing.
--
   name: David Bindel
   dept: Computer Science
-  pic: http://www.cs.cornell.edu/cse/images/facres/Bindel.jpg
+  pic: https://www.cs.cornell.edu/~bindel/pic/Bush-06.jpg
   url: http://www.cs.cornell.edu/~bindel/
   office: 425 Gates Hall
   phone: (607) 255-5395
-  email: bindel@cs.cornell.edu
+  email: bindel@cornell.edu
   blurb: |
     Microelectromechanical systems (MEMS), numerical linear algebra,
     finite element analysis, floating point computation and network
     tomography.
 -
-  name: Adam Bojanczyk
-  dept: Electrical and Computer Engineering
-  pic: http://www.cs.cornell.edu/cse/images/facres/bojanczyk.gif
-  url: http://facdir.ece.cornell.edu/index.cfm/wg.page/ECE/awb8.htm
-  office: 335 Rhodes Hall
-  phone: (607) 255-4296
-  email: adamb@ece.cornell.edu
-  blurb: |
-    Design of parallel algorithms and architectures for signal
-    processing, new parallel algorithms for real-time matrix
-    computations; techniques for mapping composite tasks onto parallel
-    architectures; algorithms for space-time adaptive processing of
-    airborne radar data.
--
-  name: David Caughey
-  dept: Mechanical and Aerospace Engineering
-  pic: http://www.cs.cornell.edu/cse/images/facres/caughey.gif
-  url: http://www.mae.cornell.edu/index.cfm/page/fac/Caughey.htm
-  office: 248 Upson Hall
-  phone: (607) 255-3372
-  email: dac5@cornell.edu
-  gone: Emeritus
-  blurb: |
-    Computational techniques for the solution of problems in fluid
-    mechanics and aerodynamics, including transonic flows with shock
-    waves, turbulent flows with chemical reaction, and unsteady flows
-    with fluid-structure interactions. The goal of this research is to
-    develop efficient techniques for the solution of both ideal (i.e.,
-    inviscid) and dissipative (i.e., viscous) approximations to the
-    equations of fluid mechanics for these problems.
--
-  name: Garnet K.-L. Chan
-  dept: Chemistry and Chemical Biology
-  pic: http://www.cs.cornell.edu/cse/images/facres/chan.gif
-  url: http://www.chem.cornell.edu/faculty/index.asp?fac=60
-  office: 244 Baker Laboratory
-  phone: (607) 254-6523
-  email: gc238@cornell.edu
-  gone: Moved to Princeton
-  blurb: |
-    Electronic structure and dynamics of complex processes. Developing
-    new and more powerful theoretical techniques which enable us to
-    describe strong electronic correlation problems. Of particular
-    theoretical interest are the construction of fast (polynomial)
-    algorithms to solve the quantum many-particle problem, and the
-    treatment of correlation in time-dependent processes.
--
-  name: Yudong Chen
-  dept: Operations Research
-  url: https://people.orie.cornell.edu/yudong.chen/
-  pic: https://people.orie.cornell.edu/yudong.chen/2015_1397_020.jpg
-  office: 223 Rhodes Hall
-  phone: (607) 255-0698
-  email: yudong.chen@cornell.edu
-  blurb: |
-    My research interests include machine learning, high-dimensional
-    and robust statistics, and optimization. Some of the topics that
-    I am interested in are sparse recovery and compressed sensing,
-    robust matrix completion and PCA, graph clustering and community
-    detection in networks, mixture problems, large-scale learning and
-    optimization, computational and statstistical tradeoffs, and
-    non-convex statistical algorithms.
--
-  name: Paulette Clancy
-  dept: Chemical and Biomolecular Engineering
-  pic: http://www.cs.cornell.edu/cse/images/facres/clancy.gif
-  url: http://www.cheme.cornell.edu/people/profile.cfm?netid=pqc1
-  office: 124 Olin Hall
-  phone: (607) 255-6331
-  email: pc@cheme.cornell.edu
-  blurb: |
-    Multiscale computational studies of traditional (silicon-based)
-    and non-traditional (organic) semiconductors, especially the
-    optimization and understanding of manufacturing processes used to
-    fabricate electronic devices and design potentially improved
-    semiconductor materials. Major emphasis is on atomic-scale
-    modeling, but multi-scale techniques are used to cover multiple
-    length- and time- scales.
--
-  name: Lance Collins
-  dept: Mechanical and Aerospace Engineering
-  pic: /img/Collins.headshot.jpeg
-  url: http://www.mae.cornell.edu/index.cfm/page/fac/collins.htm
-  office: 246 Upson Hall
-  phone: (607) 255-0379
-  email: lc246@cornell.edu
-  blurb: |
-    Turbulence physics, direct numerical simulations, spectral
-    modeling, and probability density function modeling. Areas of
-    interest include: cloud physics; aerosol transport, clustering and
-    high-speed particle tracking; premixed and non-premixed
-    combustion; scalar mixing modeling with/without chemical reaction;
-    polymer drag reduction; fundamental study of homogeneous turbulent
-    shear flow; and high-performance computing.
--
   name: Ashim Datta
   dept: Biological and Environmental Engineering
-  pic: http://www.cs.cornell.edu/cse/images/facres/datta.gif
+  pic: https://cals.cornell.edu/sites/default/files/styles/faculty/public/2019-08/0703_datta-250x313.jpg
   url: http://datta.bee.cornell.edu/
   office: 208 Riley-Robb Hall
   phone: (607) 255-2482
@@ -151,26 +44,9 @@
     applications, the goal of modeling is to obtain better insight
     into procedures and be able to optimize them.
 -
-  name: Paul Dawson
-  dept: Mechanical and Aerospace Engineering
-  pic: http://www.cs.cornell.edu/cse/images/facres/dawson.gif
-  url: http://www.mae.cornell.edu/index.cfm/page/fac/Dawson.htm
-  office: 196 Rhodes Hall
-  phone: (607) 255-3466
-  email: prd5@cornell.edu
-  blurb: |
-    Mechanics and materials science associated with deformation
-    processes of polycrystalline materials. The general aim of the
-    research is to integrate modern constitutive theories for the
-    mechanical behavior of these materials into rigorous mechanics
-    frameworks and to solve the resulting systems of equations by
-    numerical techniques. The end goal is a more fundamental
-    understanding of the relation between a material’s microstructure
-    state and its derivative mechanical properties.
--
   name: Oliver Desjardins
   dept: Mechanical and Aerospace Engineering
-  pic: http://www.cs.cornell.edu/cse/images/facres/Olivier.jpg
+  pic: https://www.mae.cornell.edu/sites/default/files/departments/MAE/faculty%20images/Olivier.jpg
   url: http://ctflab.mae.cornell.edu/
   office: 250 Upson Hall
   phone: (607) 255-4100
@@ -185,7 +61,7 @@
 -
   name: Peter Diamessis
   dept: Civil and Environmental Engineering
-  pic: http://www.cs.cornell.edu/cse/images/facres/Peter.jpg
+  pic: https://www.cee.cornell.edu/sites/default/files/content/faculty/image/Diamessis445_2.jpg
   url: http://www.cee.cornell.edu/index.php/people/?ktf=website/person/show_faculty/id=494
   office: 105 Hollister Hall
   phone: (607) 255-1719
@@ -201,7 +77,7 @@
 -
   name: Chris Earls
   dept: Civil and Environmental Engineering
-  pic: http://www.cs.cornell.edu/cse/images/facres/CJE23_1153996594.jpg
+  pic: https://www.engineering.cornell.edu/sites/default/files/content/faculty/image/Earls%20560x560.jpg
   url: http://www.cee.cornell.edu/index.php/people/professorial/?ktf=website/person/show_faculty/id=504
   office: 365 Hollister Hall
   phone: (607) 255-1652
@@ -217,7 +93,7 @@
 -
   name: Steve Ellner
   dept: Ecology and Evolutionary Biology
-  pic: http://www.cs.cornell.edu/cse/images/facres/ellner.gif
+  pic: https://people.as.cornell.edu/files/second/styles/person_image/public/stephen-paul-ellner.jpg
   url: http://www.eeb.cornell.edu/Ellner/default.html
   office: E339A Corson Hall
   phone: (607) 254-4221
@@ -231,7 +107,7 @@
 -
   name: Fernando Escobedo
   dept: Chemical and Biomolecular Engineering
-  pic: http://www.cs.cornell.edu/cse/images/facres/escobedo.gif
+  pic: https://www.engineering.cornell.edu/sites/default/files/content/faculty/image/Fernando%20Escobedo.JPG
   url: http://www.cheme.cornell.edu/people/profile.cfm?netid=fe1
   office: 377 Olin Hall
   phone: (607) 255-8243
@@ -245,7 +121,7 @@
 -
   name: Greg Ezra
   dept: Chemistry and Chemical Biology
-  pic: http://www.cs.cornell.edu/cse/images/facres/ezra.gif
+  pic: https://people.as.cornell.edu/files/second/styles/person_image/public/gregory-sion-ezra.jpg
   url: http://www.chem.cornell.edu/faculty/index.asp?fac=27
   office: G-12 Baker Laboratory
   phone: (607) 255-3949
@@ -273,7 +149,7 @@
 -
   name: Oliver Gao
   dept: Civil and Environmental Engineering
-  pic: http://www.cs.cornell.edu/cse/images/facres/Gao.jpg
+  pic: https://www.cee.cornell.edu/sites/default/files/content/faculty/image/Gao_new%20pic_183_1.jpg
   url: http://www.cee.cornell.edu/people/profile.cfm?netid=hg55
   office: 324 Hollister Hall
   phone: (607) 254-8334
@@ -284,37 +160,9 @@
     development. Sustainable food systems, quantifying and mitigating
     green-house gas emissions from food supply chains.
 -
-  name: Johannes Gehrke
-  dept: Computer Science
-  pic: http://www.cs.cornell.edu/cse/images/facres/gehrke.gif
-  url: http://www.cs.cornell.edu/johannes/
-  office: 4105B Upson Hall
-  phone: (607) 255-1045
-  email: johannes@cs.cornell.edu
-  gone: Moved to Microsoft
-  blurb: |
-    Data mining and database systems. Knowledge discovery from large
-    databases, algorithms for privacy-preserving data mining and
-    change detection over data streams, database systems for querying
-    sensor networks with thousands of small wireless sensors.
--
-  name: John Guckenheimer
-  dept: Mathematics
-  pic: http://www.cs.cornell.edu/cse/images/facres/gukenheimer.gif
-  url: http://www.math.cornell.edu/People/Faculty/guckenheimer.html
-  office: 565 Malott Hall
-  phone: (607) 255-8290
-  email: gucken@cam.cornell.edu
-  gone: Emeritus
-  blurb: |
-    Dynamics of systems with multiple time scales, algorithm
-    development for problems involving periodic orbits and upon
-    applications to the neurosciences, animal locomotion and control
-    of nonlinear systems.
--
   name: Shane Henderson
   dept: Operations Research
-  pic: http://www.cs.cornell.edu/cse/images/facres/henderson.gif
+  pic: https://www.orie.cornell.edu/sites/default/files/content/faculty/image/Screen%20Shot%202022-10-04%20at%2012.16.40%20PM.png
   url: http://www.orie.cornell.edu/~shane/
   office: 230 Rhodes Hall
   phone: (607) 255-9126
@@ -332,37 +180,9 @@
     match racing, ambulance deployment, adaptive Monte Carlo and 
     policy identification in complex networks.
 -
-  name: Tony Ingraffea
-  dept: Civil and Environmental Engineering
-  pic: http://www.cs.cornell.edu/cse/images/facres/ingraffea.gif
-  url: http://www.cee.cornell.edu/fbxk/fcbo.cfm?pid=165
-  office: 322 Hollister Hall
-  phone: (607)255-3336
-  email: ARI1@cornell.edu
-  gone: Retired
-  blurb: |
-    Rock mechanics, structural mechanics, fracture mechanics,
-    computational mechanics.
--
-  name: Peter Jackson
-  dept: Operations Research
-  pic: http://www.orie.cornell.edu/engineering/customcf/iws_ai_faculty_display/ai_images/pj16-profile.jpg
-  url: http://www.orie.cornell.edu/orie/people/profile.cfm?netid=pj16
-  office: 218 Rhodes Hall
-  phone: (607) 255-9122
-  email: pj16@cornell.edu
-  blurb: |
-    Much of my research career has focused on optimization problems arising
-    in inventory systems (production, distribution, and supply chain) for
-    which approximations are required to get tractable solution algorithms.
-    Recently, I have been exploring robust optimization as a tool to develop
-    such algorithms in a more standardized way. I am currently co-advising
-    a student in an attempt to use robust optimization to justify
-    a production policy we have been unable to show as optimal using traditional methods.
--
   name: Yong Joo
   dept: Chemical and Biomolecular Engineering
-  pic: http://www.cs.cornell.edu/cse/images/facres/joo.gif
+  pic: https://www.cheme.cornell.edu/sites/default/files/content/faculty/image/Joo_360.jpg
   url: http://web1temp.cheme.cornell.edu/peopleevents/faculty/joo/
   office: 340 Olin Hall
   phone: (607) 255-8591
@@ -401,37 +221,9 @@
     fluid dynamics, plasma physics. Performance characterization and
     tuning of high-energy particle physics software.
 -
-  name: Sid Leibovich
-  dept: Mechanical and Aerospace Engineering
-  pic: http://www.cs.cornell.edu/cse/images/facres/liebovich.gif
-  url: http://www.mae.cornell.edu/index.cfm/page/fac/Leibovich.htm
-  office: 246 Upson Hall
-  phone: (607) 255-3477
-  email: SL23@cornell.edu
-  gone: Retired
-  blurb: |
-    Problems in fluid mechanics of highly vortical flows and
-    geophysical flows. These flows typically involve processes of
-    instability and transition, or wave propagation.
--
-  name: Peter Lepage
-  dept: Physics
-  pic: http://www.cs.cornell.edu/cse/images/facres/lepage.gif
-  url: http://www.physics.cornell.edu/profpages/LepageG.html
-  office: 147 Goldwin Smith Hall
-  phone: (607) 255-5151
-  email: gpl@mail.lepp.cornell.edu
-  blurb: |
-    Quantum field theory; renormalization techniques and effective
-    field theory, with applications in particle physics, condensed
-    matter physics, and nuclear physics; numerical quantum field
-    theory and lattice QCD; Standard Model physics; heavy-quark
-    physics; high-precision atomic physics and QED; computational
-    physics and physics pedagogy
--
   name: Adrian Lewis
   dept: Operations Research
-  pic: http://www.cs.cornell.edu/cse/images/facres/lewis.gif
+  pic: https://www.engineering.cornell.edu/sites/default/files/departments/ORIE/faculty%20images/560x560/Adrian%20Lewis%20-%20560x560.jpg
   url: http://www.orie.cornell.edu/~aslewis/
   office: 235 Upson Hall
   phone: (607) 255-9147
@@ -440,37 +232,9 @@
     Variational analysis and nonsmooth optimization, with a particular
     interest in optimization problems involving eigenvalues.
 -
-  name: Hod Lipson
-  dept: Mechanical and Aerospace Engineering
-  pic: http://www.cs.cornell.edu/cse/images/facres/lipson.gif
-  url: http://www.mae.cornell.edu/lipson/
-  office: 216 Upson Hall
-  phone:
-    - (607) 255-1686 (Office)
-    - (607) 254- 8940 (Lab)
-  email: Hod.Lipson@cornell.edu
-  gone: Moved to Columbia
-  blurb: |
-    Computer aided design and manufacturing: Fully automated Design,
-    and Fully automated Manufacturing. Primarily biologically-inspired
-    approaches, as they bring new ideas to engineering and new
-    engineering insights into biology.
--
-  name: Philip Liu
-  dept: Civil and Environmental Engineering
-  pic: http://www.cs.cornell.edu/cse/images/facres/liu.gif
-  url: http://www.cee.cornell.edu/fbxk/fcbo.cfm?pid=203
-  office: 118 Hollister Hall
-  phone: (607) 255-5090
-  email: pll3@cornell.edu
-  gone: retired
-  blurb: |
-    Fluid mechanics. Wave hydrodynamics, coastal engineering, tsunami
-    effects, numerical methods
--
   name: Roger Loring
   dept: Chemistry and Chemical Biology
-  pic: http://www.cs.cornell.edu/cse/images/facres/loring.gif
+  pic: https://people.as.cornell.edu/files/second/styles/person_image/public/roger-f-loring.jpg
   url: http://www.chem.cornell.edu/faculty/index.asp?fac=35
   office: 208B Baker Laboratory
   phone: (607) 255-4873
@@ -486,24 +250,9 @@
     applied to the interpretation of multidimensional infrared
     spectroscopy of biomolecules.
 -
-  name: Subrata Mukherjee
-  dept: Mechanical and Aerospace Engineering
-  pic: http://www.cs.cornell.edu/cse/images/facres/mukherjee.gif
-  url: http://www.tam.cornell.edu/Mukherjee1.html
-  office: 220 Kimball Hall
-  phone: (607) 255-7143
-  email: sm85@cornell.edu
-  gone: Emeritus
-  blurb: |
-    Linear and nonlinear computational mechanics, with primary
-    emphasis on the applications of the boundary element and finite
-    element methods; meshless methods; integral equation methods;
-    viscoplasticity and for large-strain large-rotation problems,
-    sensitivity analysis; boundary contour and boundary node methods.
--
   name: Chris Myers
   dept: Computational Biology Service Unit
-  pic: http://www.cs.cornell.edu/cse/images/facres/myers.jpg
+  pic: https://people.as.cornell.edu/files/second/styles/person_image/public/christopher-myers.jpg
   url: http://www.cs.cornell.edu/cse/field.htm
   office: 626 Rhodes Hall
   phone: (607) 255-5894
@@ -540,39 +289,6 @@
     into CFD and increase the impact of numerical approaches in the
     design and optimization of energy systems.
 -
-  name: Steve Pope
-  dept: Mechanical and Aerospace Engineering
-  pic: http://www.cs.cornell.edu/cse/images/facres/pope.gif
-  url: http://eccentric.mae.cornell.edu/~pope/
-  office: 254 Upson Hall
-  phone: (607) 255 4314
-  email: pope@mae.cornell.edu
-  gone: Emeritus
-  blurb: |
-    Models and computational methodologies for the calculation of
-    turbulent and reactive flows, especially turbulent combustion. For
-    non-reactive turbulent flows, CFD plays an important role in the
-    design of engineering equipment, such as aircraft wings and
-    gas-turbine compressors. While CFD is also used for turbulent
-    combustion, the models currently in use in industry fall far short
-    of the required accuracy and level of description.
--
-  name: Phillip Protter
-  dept: Operations Research
-  pic: http://www.cs.cornell.edu/cse/images/protter.gif
-  url: http://www.orie.cornell.edu/orie/people/faculty/profile.cfm?netid=pep4
-  office: 219 Rhodes
-  phone: (607) 255-9133
-  email: pep4@cornell.edu
-  gone: Moved to Columbia
-  blurb: |
-    Theoretical and applied probability, mathematical finance theory
-    (asset pricing, liquidity risk, credit risk, etc.), stochastic
-    numerical analysis, stochastic analysis and its applications, weak
-    convergence, Markov process theory, and filtering
-    theory. Simulation and approximation of solutions for stochastic
-    differential equations.
--
   name: Sara Pryor
   dept: Earth and Atmospheric Sciences
   pic: http://www.eas.cornell.edu/engineering2/customcf/iws_ai_faculty_display/ai_images/sp2279_eng-profile.jpg
@@ -606,24 +322,9 @@
     computing and advanced spatiotemporal visualization and
     uncertainty modeling techniques.
 -
-  name: Alfred H. Schatz
-  dept: Mathematics
-  pic: http://www.cs.cornell.edu/cse/images/facres/schatz.gif
-  url: http://www.math.cornell.edu/People/Faculty/schatz.html
-  office: 557 Malott Hall
-  phone: (607) 255-2318
-  email: schatz@math.cornell.edu
-  gone: Emeritus
-  blurb: |
-    The analysis and construction of finite element methods for the
-    approximate solution of partial differential equations. In
-    particular, investigating both the local behavior of such matters
-    and another phenomena associated with them called
-    superconvergence.
--
   name: Jim Sethna
   dept: Physics
-  pic: http://www.cs.cornell.edu/cse/images/facres/sethna.gif
+  pic: https://people.as.cornell.edu/files/second/styles/person_image/public/james-sethna.jpg
   url: http://www.physics.cornell.edu/profpages/Sethna.htm
   office: 412 Physical Sciences Building
   phone: (607) 255-5132
@@ -650,7 +351,7 @@
 -
   name: David Shmoys
   dept: Operations Research
-  pic: http://www.cs.cornell.edu/cse/images/facres/shmoys.gif
+  pic: https://people.orie.cornell.edu/shmoys/images/dbs10-profile.jpg
   url: http://www.orie.cornell.edu/~shmoys/
   office: 232 Rhodes Hall
   phone: (607) 255-9146
@@ -662,73 +363,12 @@
     development of algorithmic tools that lead to approximation
     algorithms for which good performance guarantees can be proved.
 -
-  name: Chris Shoemaker
-  dept: Civil and Environmental Engineering
-  pic: http://www.cs.cornell.edu/cse/images/facres/shoemaker.gif
-  url: http://www.cee.cornell.edu/fbxk/fcbo.cfm?pid=167
-  office: 210 Hollister Hall
-  phone: (607)255-9233
-  email: cas12@cornell.edu
-  gone: retired
-  blurb: |
-    Cost-effective, robust solutions for environmental problems by
-    using optimization, modeling and statistical analyses of resource
-    allocation and operations management; development of numerically
-    efficient nonlinear optimization algorithms utilizing high
-    performance computing and algorithm applications to complex,
-    nonlinear environmental systems. Application areas include
-    physical and biological groundwater remediation, pesticide
-    management, ecology, and surface water pollutant transport in
-    large watersheds.
--
-  name: Paul Steen
-  dept: Chemical and Biomolecular Engineering
-  pic: http://www.cs.cornell.edu/cse/images/facres/steen.gif
-  url: http://www.cheme.cornell.edu/people/profile.cfm?netid=phs7
-  office: 346 Olin Hall
-  phone: (607) 255-4749
-  email: phs7@cornell.edu
-  blurb: |
-    Stability analysis when a small disturbance triggers a dramatic
-    change. Examples include breaking of an object (mechanics), the
-    thermal runaway of a reactor (chemistry), the reversal of the
-    earth's magnetic field (geophysics), and the onset of global
-    climate change (climatology). Instability results from an
-    imbalance that carries the system away from the sometimes delicate
-    balance represented by equilibrium.
--
-  name: Saul Teukolsky
-  dept: Physics and Astronomy
-  pic: http://www.cs.cornell.edu/cse/images/facres/teukolsky.gif
-  url: http://www.astro.cornell.edu/people/facstaff-detail.php?pers_id=115
-  office: 608 Space Sciences Building
-  phone: (607) 255-5897
-  email: saul@astro.cornell.edu
-  blurb: |
-    General relativity and relativistic astrophysics; numerical
-    relativity; black hole and neutron star physics; computational
-    physics.
--
-  name: Mike Todd
-  dept: Operations Research
-  pic: http://www.cs.cornell.edu/cse/images/facres/todd.gif
-  url: http://www.orie.cornell.edu/~miketodd/index2.html
-  office: 229 Rhodes Hall
-  phone: (607) 255-9135
-  email: mikeTodd@orie.cornell.edu
-  gone: Emeritus
-  blurb: |
-    Algorithms for linear and convex programming, particularly
-    semidefinite programming, analysis of interior-point methods,
-    homotopy methods, probabilistic analysis of pivoting methods, and
-    extensions of complementary pivoting ideas to oriented matroids.
--
   name: Huseyin Topaloglu
   dept: Operations Research
-  pic: http://www.cs.cornell.edu/cse/images/facres/husey.jpg
+  pic: https://people.orie.cornell.edu/huseyin/htopaloglu2023.jpg
   url: http://www.orie.cornell.edu/orie/people/faculty/profile2.cfm?netid=ht88
-  office: 223 Rhodes Hall
-  phone: (607) 255-0698
+  office: 2 West Loop Road
+  phone: (646) 971-3825
   email: ht88@cornell.edu
   blurb: |
     Large-scale resource allocation problems under
@@ -757,36 +397,9 @@
     (2) The asymptotics of special functions for image reconstruction, convolution, and quadrature, and 
     (3) Numerical algebraic geometry for the solution of polynomial systems.  
 -
-  name: Les Trotter
-  dept: Operations Research
-  pic: http://www.cs.cornell.edu/cse/images/facres/trotter.gif
-  url: http://www.orie.cornell.edu/~ltrotter/index.html
-  office: 235 Rhodes Hall
-  phone: (607) 255-5360
-  email: trotter@orie.cornell.edu
-  blurb: |
-    Integer programming, discrete optimization models. Applications in
-    resource allocation, production and distribution of commodities,
-    routing and sequencing in networks representing processes of
-    computation, communication, and production, optimal location of
-    product distribution centers or emergency public service centers,
-    optimal layout of networks.
--
-  name: Charles Van Loan
-  dept: Computer Science
-  pic: http://www.cs.cornell.edu/cse/images/facres/vanloan.gif
-  url: http://www.cs.cornell.edu/cv/
-  office: 4130 Upson Hall
-  phone: (607) 255-5418
-  email: cv@cs.cornell.edu
-  gone: Emeritus
-  blurb: |
-    Numerical linear and multilinear algebra with applications in
-    signal processing and control theory.
--
   name: Jeffrey Varner
   dept: Chemical and Biomolecular Engineering
-  pic: http://www.cs.cornell.edu/cse/images/facres/varner.gif
+  pic: https://www.engineering.cornell.edu/sites/default/files/content/faculty/image/Varner_360.jpg
   url: http://www.cheme.cornell.edu/people/profile.cfm?netid=jdv27
   office: 244 Olin Hall
   phone: 607 255-4258
@@ -803,7 +416,7 @@
 -
   name: Alexander Vladimirsky
   dept: Mathematics
-  pic: http://www.cs.cornell.edu/cse/images/facres/vladimirsky.gif
+  pic: https://people.as.cornell.edu/files/second/styles/person_image/public/alexander-vladimirsky.jpg
   url: http://www.math.cornell.edu/People/Faculty/vladimirsky.html
   office: 430 Malott Hall
   phone: (607) 255-9871
@@ -816,23 +429,9 @@
     problems; problems in anisotropic (and hybrid) control and in
     front propagation.
 -
-  name: Lars Wahlbin
-  dept: Mathematics
-  pic: http://www.cs.cornell.edu/cse/images/facres/wahlbin.gif
-  url: http://www.math.cornell.edu/People/Faculty/wahlbin.html
-  office: 573 Malott
-  phone: (607) 255-2397
-  email: wahlbin@math.cornell.edu
-  gone: Deceased
-  blurb: |
-    Numerical solution of partial differential equations, analysis
-    aimed at gaining a fundamental understanding of methods. Behavior
-    of the finite-element methods in a variety of problems, especially
-    ones that contain singularities of various degrees of nastiness.
--
   name: Derek Warner
   dept: Civil and Environmental Engineering
-  pic: http://www.cs.cornell.edu/cse/images/facres/Derek.jpg
+  pic: https://www.engineering.cornell.edu/sites/default/files/content/faculty/image/Derek%20Warner%20color%20headshot%20.jpg
   url: http://www.cee.cornell.edu/people/dhw52/research.cfm
   office: 373 Hollister Hall
   phone: (607) 255-7155
@@ -845,7 +444,7 @@
 -
   name: Jane Wang
   dept: Mechanical and Aerospace Engineering
-  pic: http://www.cs.cornell.edu/cse/images/facres/wang.gif
+  pic: https://people.as.cornell.edu/files/second/styles/person_image/public/jane-wang.jpg
   url: http://www.tam.cornell.edu/Wang.html
   office: 323 Thurston Hall
   phone: (607) 255-5354
@@ -861,38 +460,10 @@
 -
   name: David Williamson
   dept: Operations Research
-  pic: http://www.cs.cornell.edu/cse/images/facres/williamson.gif
+  pic: https://www.engineering.cornell.edu/sites/default/files/departments/ORIE/faculty%20images/560x560/David%20Williamson%20-%20560x560.jpg
   url: http://www.orie.cornell.edu/~dpw/index.html
   office: 236 Rhodes Hall
   phone: (607) 255-4883
   email: dpw@orie.cornell.edu
   blurb: |
     Algorithms, combinatorial optimization, computer science.
--
-  name: Nicholas Zabaras
-  dept: Mechanical and Aerospace Engineering
-  pic: http://www.cs.cornell.edu/cse/images/facres/zabaras.gif
-  url: http://mpdc.mae.cornell.edu/
-  office: 188 Rhodes Hall
-  phone: (607) 255-9104
-  email: zabaras@cornell.edu
-  gone: Moved to Warwick
-  blurb: |
-    Computational materials science, multiscale mathematics and
-    computation, stochastic modeling, Bayesian computation,
-    statistical learning and information theoretic algorithms.
--
-  name: Roseanna Zia
-  dept: Chemistry and Biomolecular Engineering
-  pic: http://www.icse.cornell.edu/ziagroup/Roseanna%20Zia.jpg
-  url: http://www.icse.cornell.edu/ziagroup/index.html
-  office: 344 Olin Hall
-  phone: (607) 254-3353
-  email: zia@cbe.cornell.edu
-  gone: Moved to Stanford
-  blurb: |
-    Structural evolution and particle transport in 3D micro-confined
-    suspensions; slow evolution during and sudden release from kinetic
-    arrest in colloidal gels and glasses; and development of a broad
-    non-equilibrium "equation of state", a generalization of
-    Einstein's equilibrium theory.
