@@ -6,8 +6,8 @@ nav: people
 <hr/>
 {% for p in site.data.field %}
 {% if p.gone %}{% else %}
-<div class="panel fill">
-  {% if p.pic %}<img class="align-right round" alt="{{ p.name }}" src="{{ p.pic }}"/>{% endif %}
+<div class="dialog panel fill">
+  {% if p.pic %}<img class="align-right round" alt="{{ p.name }}" width="100" src="{{ p.pic }}"/>{% endif %}
   <div>
     <p>
       <h4><a href="{{ p.url }}">{{ p.name }}</a></h4>
