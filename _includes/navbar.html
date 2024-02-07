@@ -1,7 +1,8 @@
-<nav class="band" id="main-navigation" aria-label="Main Navigation">
-  <div class="container">
-    <a id="mobile-home" href="#"><span class="hidden">Home</span></a>
-    <ul class="list-menu links">
+<header id="site-header" aria-label="Site Banner">
+  <nav class="dropdown-menu dropdown-menu-on-demand" id="main-navigation" aria-label="Main Navigation">
+    <div class="container-fluid" role="application" aria-label="Main Navigation Dropdown Menus">
+      <a id="mobile-home" href="#"><span class="sr-only">Home</span></a>
+      <ul class="list-menu links">
       {% for entry in site.data.nav %}
         <li{% if entry.children %} class="parent"{% elsif entry.nav == page.nav %} class="active"{% endif %}>
         <a href="{% if entry.link %}{{ entry.link }}{% else %}#{% endif %}">{{ entry.text }}</a>
@@ -25,6 +26,7 @@
         {% endif %}
         </li>
       {% endfor %}
-    </ul>
-  </div>
-</nav>
+      </ul>
+    </div>
+  </nav>
+</header>
