@@ -6,8 +6,8 @@ nav: reqt
 ### The CSE Committee Member
 
 The student must have a special committee member who belongs to the
-Graduate Minor Field of Computational Science and Engineering. See
-list. It is the responsibility of the CSE member to ensure that the
+Graduate Minor Field of Computational Science and Engineering ([see
+list](people.html)). It is the responsibility of the CSE member to ensure that the
 requirements are satisfied and expectations met. A measure of
 flexibility is to be expected given the breadth of tradition across
 CSE-related fields.
