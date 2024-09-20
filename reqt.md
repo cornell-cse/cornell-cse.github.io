@@ -20,8 +20,8 @@ and is expected to receive a letter grade of B+ or better in each.
 1. Approval: The three courses must be approved by the CSE committee
    member.  In general, CSE courses are characterized by development
    of algorithms or visualization, use of computers, and applications
-   to scientific or engineering problems. See the list of currently
-   approved CSE courses. Whether or not these courses can also be used
+   to scientific or engineering problems ([see the list of currently
+   approved CSE courses](courses.html)). Whether or not these courses can also be used
    to satisfy requirements for the major field is a matter for the
    student's Special Committee.
 
