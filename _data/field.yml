@@ -27,6 +27,17 @@
     finite element analysis, floating point computation and network
     tomography.
 -
+  name: Anil Damle
+  dept: Computer Science
+  pic: https://www.cs.cornell.edu/~damle/Anil_Damle_2016.jpg
+  url: https://www.cs.cornell.edu/~damle/
+  office: 423 Gates Hall
+  phone: n/a
+  email: damle@cornell.edu
+  blurb: |
+    Numerical linear algebra, computational quantum chemistry,
+    computational statistics, fast algorithms.
+-
   name: Ashim Datta
   dept: Biological and Environmental Engineering
   pic: https://cals.cornell.edu/sites/default/files/styles/faculty/public/2019-08/0703_datta-250x313.jpg
@@ -44,11 +55,11 @@
     applications, the goal of modeling is to obtain better insight
     into procedures and be able to optimize them.
 -
-  name: Oliver Desjardins
+  name: Olivier Desjardins
   dept: Mechanical and Aerospace Engineering
   pic: https://www.mae.cornell.edu/sites/default/files/departments/MAE/faculty%20images/Olivier.jpg
-  url: http://ctflab.mae.cornell.edu/
-  office: 250 Upson Hall
+  url: httpa://www.multiphasecfd.com/
+  office: 305 Upson Hall
   phone: (607) 255-4100
   email: olivier.desjardins@cornell.edu
   blurb: |
@@ -93,8 +104,8 @@
 -
   name: Steve Ellner
   dept: Ecology and Evolutionary Biology
-  pic: https://people.as.cornell.edu/files/second/styles/person_image/public/stephen-paul-ellner.jpg
-  url: http://www.eeb.cornell.edu/Ellner/default.html
+  pic: https://people.as.cornell.edu/sites/default/files/styles/person_image/public/stephen-paul-ellner.jpg
+  url: https://ecologyandevolution.cornell.edu/stephen-paul-ellner
   office: E339A Corson Hall
   phone: (607) 254-4221
   email: spe2@cornell.edu
